@@ -180,3 +180,11 @@
          -webkit-transform:translate(260px , 0px) rotateY(180deg);
          -moz-transform:translate(260px , 0px) rotateY(180deg);
        }
+
+
+  @media (max-width:768px) {
+         .wrap {
+             height:100%;
+             top:26%;
+         }
+     }
